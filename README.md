@@ -3,6 +3,7 @@
 Repository For the COSC412 Group Projct of Group 5
 
 Project Ideas - Rate my Professor for Towson
+
 Project Title - Towson Reviews
 
 Team Members - Alixandra Downey, Louie Glenn Hankins, Curtis Crowley, Daniel Leon, Jake Shaheen
